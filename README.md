@@ -1,4 +1,4 @@
-# projekt-bazy
+# NATURAL MERGE SORT SIMULATION IN JAVA
 
 
 Implemented a natural merge sort algorithm with simulated block-based disk I/O.
